@@ -1,0 +1,21 @@
+.user {
+    display: flex;
+    width: 700px;
+    margin: 5px auto;
+    border-bottom: solid 5px white;
+}
+.username {
+    width: 30%;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.userinfo {
+    width: 70%;
+    background-color: grey;
+    padding: 5px;
+}
+h3 {
+    color: white;
+}
